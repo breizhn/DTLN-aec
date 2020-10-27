@@ -5,7 +5,7 @@ The model was trained on data from the [DNS-Challenge](https://github.com/micros
 
 The ArXiv preprint with further detail will be published in the comming days.
 
---
+---
 
 ## Contents:
 
@@ -15,7 +15,8 @@ This repository contains three prtrained models of different size:
 * `dtln_aec_512` (model with 512 LSTM units per layer, 10.4M parameters)
 
 The `dtln_aec_512` was handed in to the challenge.
---
+
+---
 ## Usage:
 
 First install the depencies from `requirements.txt` 
@@ -26,5 +27,7 @@ $ python run_aec.py -i /folder/with/input/files -o /target/folder/ -m ./pretrain
 ```
 
 Files for testing can be found in the [AEC-Challenge](https://github.com/microsoft/DNS-Challenge) respository. The convention for file names is `*_mic.wav` for the near-end microphone signals and `*_lpb.wav` for the far-end microphone or loopback signals. Some example files will be added later.
+
+---
 
 ## This repository is still under construction.
