@@ -5,6 +5,10 @@ The model was trained on data from the [DNS-Challenge](https://github.com/micros
 
 The ArXiv preprint with further detail will be published in the comming days.
 
+Author: Nils L. Westhausen ([Communication Acoustics](https://uol.de/en/kommunikationsakustik) , Carl von Ossietzky University, Oldenburg, Germany)
+
+This code is licensed under the terms of the MIT license.
+
 ---
 
 ## Contents:
