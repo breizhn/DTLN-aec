@@ -1,5 +1,5 @@
 # DTLN-aec
-This Repostory contains the pretrained DTLN-aec model for real-time acoustic echo cancellation in TF-lite format. This model was handed in to acoustic echo cancellation challenge ([AEC-Challenge](https://aec-challenge.azurewebsites.net/index.html)) organized by Microsoft. The DTLN-aec model is among the top-five models of the challenge. The results of the AEC-Challenge can be found [here](https://aec-challenge.azurewebsites.net/results.html).
+This Repostory contains the pretrained DTLN-aec model for real-time acoustic echo cancellation in TF-lite format. This model was handed in to the acoustic echo cancellation challenge ([AEC-Challenge](https://aec-challenge.azurewebsites.net/index.html)) organized by Microsoft. The DTLN-aec model is among the top-five models of the challenge. The results of the AEC-Challenge can be found [here](https://aec-challenge.azurewebsites.net/results.html).
 
 The model was trained on data from the [DNS-Challenge](https://github.com/microsoft/AEC-Challenge) and the [AEC-Challenge](https://github.com/microsoft/DNS-Challenge) reposetories.
 
