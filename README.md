@@ -3,7 +3,16 @@ This Repostory contains the pretrained DTLN-aec model for real-time acoustic ech
 
 The model was trained on data from the [DNS-Challenge](https://github.com/microsoft/AEC-Challenge) and the [AEC-Challenge](https://github.com/microsoft/DNS-Challenge) reposetories.
 
-The ArXiv preprint with further detail will be published in the comming days.
+The arXiv preprint can be found [here](https://arxiv.org/pdf/2010.14337.pdf).
+```bitbtex
+@article{westhausen2020acoustic,
+  title={Acoustic echo cancellation with the dual-signal transformation LSTM network},
+  author={Westhausen, Nils L. and Meyer, Bernd T.},
+  journal={arXiv preprint arXiv:2010.14337},
+  year={2020}
+}
+```
+
 
 Author: Nils L. Westhausen ([Communication Acoustics](https://uol.de/en/kommunikationsakustik) , Carl von Ossietzky University, Oldenburg, Germany)
 
