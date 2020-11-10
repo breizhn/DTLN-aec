@@ -39,7 +39,7 @@ Afterwards the model can be tested with:
 $ python run_aec.py -i /folder/with/input/files -o /target/folder/ -m ./pretrained_models/dtln_aec_512
 ```
 
-Files for testing can be found in the [AEC-Challenge](https://github.com/microsoft/DNS-Challenge) respository. The convention for file names is `*_mic.wav` for the near-end microphone signals and `*_lpb.wav` for the far-end microphone or loopback signals. Some example files will be added later.
+Files for testing can be found in the [AEC-Challenge](https://github.com/microsoft/DNS-Challenge) respository. The convention for file names is `*_mic.wav` for the near-end microphone signals and `*_lpb.wav` for the far-end microphone or loopback signals. The folder `audio_samples` contains one audio sample for each condition. The `*_processed.wav` files are created by the `dtln_aec_512` model.
 
 ---
 
