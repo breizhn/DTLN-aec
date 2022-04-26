@@ -6,10 +6,10 @@ The model was trained on data from the [DNS-Challenge](https://github.com/micros
 The arXiv preprint can be found [here](https://arxiv.org/pdf/2010.14337.pdf).
 Please cite:
 ```bitbtex
-@INPROCEEDINGS{9413510,
+@INPROCEEDINGS{westhausen21_dtln_aec,
   author={Westhausen, Nils L. and Meyer, Bernd T.},
   booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Acoustic Echo Cancellation with the Dual-Signal Transformation LSTM Network}, 
+  title={{Acoustic Echo Cancellation with the Dual-Signal Transformation LSTM Network}}, 
   year={2021},
   volume={},
   number={},
