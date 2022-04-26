@@ -1,16 +1,22 @@
 # DTLN-aec
-This Repostory contains the pretrained DTLN-aec model for real-time acoustic echo cancellation in TF-lite format. This model was handed in to the acoustic echo cancellation challenge ([AEC-Challenge](https://aec-challenge.azurewebsites.net/index.html)) organized by Microsoft. The DTLN-aec model is among the top-five models of the challenge. The results of the AEC-Challenge can be found [here](https://aec-challenge.azurewebsites.net/results.html).
+This Repostory contains the pretrained DTLN-aec model for real-time acoustic echo cancellation in TF-lite format. This model was handed in to the acoustic echo cancellation challenge ([AEC-Challenge](https://www.microsoft.com/en-us/research/academic-program/acoustic-echo-cancellation-challenge-icassp-2021/)) organized by Microsoft. The DTLN-aec model reached the 3rd place. The results of the AEC-Challenge can be found [here](https://www.microsoft.com/en-us/research/academic-program/acoustic-echo-cancellation-challenge-icassp-2021/results/).
 
 The model was trained on data from the [DNS-Challenge](https://github.com/microsoft/AEC-Challenge) and the [AEC-Challenge](https://github.com/microsoft/DNS-Challenge) reposetories.
 
 The arXiv preprint can be found [here](https://arxiv.org/pdf/2010.14337.pdf).
+Please cite:
 ```bitbtex
-@article{westhausen2020acoustic,
-  title={Acoustic echo cancellation with the dual-signal transformation LSTM network},
+@INPROCEEDINGS{9413510,
   author={Westhausen, Nils L. and Meyer, Bernd T.},
-  journal={arXiv preprint arXiv:2010.14337},
-  year={2020}
-}
+  booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Acoustic Echo Cancellation with the Dual-Signal Transformation LSTM Network}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={7138-7142},
+  doi={10.1109/ICASSP39728.2021.9413510}
+  }
+
 ```
 
 
@@ -43,4 +49,4 @@ Files for testing can be found in the [AEC-Challenge](https://github.com/microso
 
 ---
 
-## This repository is still under construction.
+
